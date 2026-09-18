@@ -1,1 +1,1 @@
-console.log("fsd lab");
+console.log("fsd lab1");
